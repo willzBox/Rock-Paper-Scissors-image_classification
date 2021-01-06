@@ -1,1 +1,3 @@
-# Rock-Paper-Scissors-image_classification-Dicoding
+# Rock-Paper-Scissors-image_classification
+
+task from dicoding with CNN layer
